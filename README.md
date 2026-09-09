@@ -62,8 +62,6 @@ Depois utilize:
 📁 MundoDosTamanduas
 │
 ├── index.html
-├── style.css
-├── script.js
 │
 ├── Images/
 │   ├── favicon.png
